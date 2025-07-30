@@ -1,0 +1,9 @@
+[submodule "Retail-Seller-Apps/seller-app-frontend"]
+	path = Retail-Seller-Apps/seller-app-frontend
+	url = https://github.com/ONDC-Official/seller-app-frontend.git
+[submodule "Retail-Seller-Apps/seller-app-protocol"]
+	path = Retail-Seller-Apps/seller-app-protocol
+	url = https://github.com/ONDC-Official/seller-app-protocol.git
+[submodule "Retail-Seller-Apps/seller-app-igm"]
+	path = Retail-Seller-Apps/seller-app-igm
+	url = https://github.com/ONDC-Official/seller-app-igm.git
